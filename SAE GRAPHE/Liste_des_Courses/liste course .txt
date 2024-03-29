@@ -1,0 +1,150 @@
+100
+
+PAIN : 7
+
+"La flûte" 
+"baguette traditionelle"
+"baguette paysane"
+"pain rond"
+"pain sportif"
+"La baguette moulée"
+"La baguette en épi"
+
+Frais : 9
+
+"jambon"
+"beurre"
+"crème fraîche"
+"lardon"
+"yaourt"
+"fromage"
+"lait"
+"Tofu"
+"oeufs"
+
+Surgelé : 3
+
+"pizza"
+"frites"
+"Mini cheeseBurgers"
+
+Alcool : 7
+
+"Pastis"
+"Cognac"
+"triple-sec"
+"Vin"
+"vin blanc"
+"Whisky"
+"Rhum"
+
+Fleur : 5
+
+"Muguets"
+"Rose"
+"marguerite"
+"tulipe"
+"hibiscus"
+
+
+Boissons : 9
+
+"Rockstar"
+"RedBull"
+"Coca"
+"Eau"
+"Fanta"
+"Orangina"
+"café"
+"Ice Tea"
+
+Salé : 3
+"chips"
+"bretzel"
+"pistaches"
+
+Non-Alimentaire : 9
+"Vetements"
+"bricolage"
+"jouets"
+"Carglass"
+"peluche"
+"nourriture animal"
+"clavier"
+"caméra"
+"Produit_anti-insectes"
+
+DPH : 8
+
+"lessive"
+"dentifrice"
+"maquillage"
+"Couche"
+"Démaquillant"
+"papier-toilette"
+"brosse à dent"
+"rouge à lèvre"
+
+Viennoiserie : 6
+
+"croissant"
+"pain au chocolat"
+"brioche"
+"chausson aux pommes"
+"donuts"
+"beignets"
+
+SEC : 5
+
+"Saucisson"
+"Coppa"
+"Rosette"
+"Salami"
+"chorizo"
+
+Spiritueux : 5
+
+"Jägermeister"
+"Pinard"
+"Mezcal"
+"Brandy"
+"Tequilla"
+
+Fruits/légumes : 10
+"Banane"
+"Poire"
+"pomme"
+"ananas"
+"orange"
+"tomate"
+"brocoli"
+"choux-fleur"
+"carotte"
+"petit pois"
+
+Bio : 2
+"Pomme_bio"
+"Steack_Végetal"
+
+Promo : 2
+"Armagnac"
+"avocat"
+
+WP : 4
+
+"LeParisien"
+"LaVoixDuNord"
+"France-Presse"
+"Nord_Litoral"
+
+Produit Temporaire : 2
+
+"Carte pokémon"
+"PS5"
+
+Frais Temporaire : 4
+
+"blanc de calmar"
+"cuisse de grenouille"
+"tapas"
+"escargots"
