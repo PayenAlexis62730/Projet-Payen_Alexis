@@ -7,7 +7,7 @@ Projets réalisés
 
 Projet 1 : Application Web
 
-Description : Développement d'une application web permettant la gestion d'un classment d'un tournoi E-sport ( Simulation )
+Description : Développement d'une application web permettant la gestion d'un classement d'un tournoi E-sport ( Simulation )
 
 Technologies : HTML, CSS, JavaScript, PHP, MySQL
 
