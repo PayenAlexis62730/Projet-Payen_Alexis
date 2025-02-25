@@ -35,11 +35,12 @@ Technologies : MySql, PHP
 
 Objectifs :
 
-- Programmation des mécaniques de jeu
-- Gestion des assets graphiques et animations
-- Implémentation des scores et niveaux
+- Implémentation de fonction autonome
+- Liaison Site / Base de donnée
+- Optimisation des requêtes utilisateurs 
+- Triage des données
 
-Compétences acquises au cours de mes études
+Compétences acquises au cours de mes études :
 
 - Développement web (Front-end et Back-end)
 - Programmation orientée objet (Java)
